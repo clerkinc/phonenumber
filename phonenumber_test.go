@@ -20,6 +20,7 @@ var mobWithLLCountryTests = []struct {
 	{"5117061970", "PE"},
 	{"862185551232", "CN"},
 	{"38391234999", "XK"},
+	{"26822123456", "SZ"},
 
 	// Mobile numbers
 	{"39339638066", "IT"},
